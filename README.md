@@ -1,5 +1,5 @@
 # Hotel Earth
-A fancy WebGL globe representing all hotels around the world.
+A fancy WebGL globe representing all hotels around the world. [https://hotel-earth.world](https://hotel-earth.world)
 
 ![Screenshot 1](http://i.imgur.com/BTbHXCk.jpg)
 ![Screenshot 2](http://i.imgur.com/BCWmfWq.png)
